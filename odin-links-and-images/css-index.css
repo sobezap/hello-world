@@ -1,0 +1,32 @@
+
+/* body {
+    background-image: url("leafbackground.jpg");
+    background-color: blanchedalmond;
+}
+*/
+
+/*
+h1 {
+    color: rgb(0, 102, 204);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+*/
+a {
+    text-align: center;
+}
+
+
+#puppy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    background: #E6E7ED;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    
+}
